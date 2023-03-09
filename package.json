@@ -4,6 +4,15 @@
   "module": "./dist/{{name_of_lib}}.mjs",
   "types": "./dist/{{name_of_lib}}.d.ts",
   "author": "{{me}}",
+  "bugs": {
+    "url": "https://github.com/{{me}}/{{name_of_lib}}/issues"
+  },
+  "homepage": "https://github.com/{{me}}/{{name_of_lib}}",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/{{me}}/{{name_of_lib}}.git"
+  },
+  "license": "MIT",
   "exports": {
     ".": {
       "require": "./dist/{{name_of_lib}}.cjs",

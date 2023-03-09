@@ -4,9 +4,10 @@
 
 
 > Note After using this template, you have to search and replace all {{name_of_lib}} and similar strings with appropriate texts.<br/><br/>
-{{name_of_lib}} should be a kebab-case string representing the name of you monorepo
-{{desc_of_lib}} should be a Normal case string with the description of the repository.<br/><br/>
-{{me}} should be a kebab-case string from your profile URL.
+`{{name_of_lib}}` should be a kebab-case string representing the name of you monorepo
+`{{desc_of_lib}}` should be a Normal case string with the description of the repository.<br/><br/>
+`{{me}}` should be a kebab-case string from your profile URL.
+`github.com` is set as the default git-host.
 
 ## Quick start
 
